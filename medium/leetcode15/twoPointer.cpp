@@ -1,35 +1,38 @@
-//Take others method as reference
 class Solution {
 public:
-    vector<vector<int>> threeSum(vector<int>& nums) {
-        vector<vector<int>> ans;
-        int sum;
-        if(nums.size() < 3)
-            return ans;
-        sort(nums.begin(), nums.end());
-        for(int i = 0; i<nums.size()-2; i++){
-            if(((nums[i] != nums[i-1]) && i>0)|| i == 0){
-                int j = i+1;
-                int k = nums.size() - 1;
-                while(j<k){
-                    sum = nums[i] + nums[j] + nums[k];
-                    if(sum == 0){
-                        vector<int> set;
-                        set.push_back(nums[i]);
-                        set.push_back(nums[j]);
-                        set.push_back(nums[k]);
-                        ans.push_back(set);
-                        while((j < k) && (nums[j] == nums[j+1])) j++;
-                        while((j < k) && (nums[k] == nums[k-1])) k--;
-                        j++;
-                    }
-                    else if(sum > 0)
-                        k--;
-                    else
-                        j++;
-                }
-            }
+    /**
+     * @param numbers: Give an array numbers of n integer
+     * @return: Find all unique triplets in the array which gives the sum of zero.
+     */
+    vector<vector<int>> threeSum(vector<int> &numbers) {
+        // write your code here
+        sort(numbers.begin(), numbers.end());
+        vector<vector<int>> sets;
+        int t, l, r;
+        for(int i = 0; i<numbers.size()-2; i++){
+           if((numbers[i] != numbers[i-1] && i>0) || i == 0){
+               l = i+1;
+               r = numbers.size()-1;
+               t = -numbers[i];
+               while(l<r){
+                   if((numbers[l]+numbers[r]) == t){
+                       vector<int> set{numbers[i], numbers[l], numbers[r]};
+                       sets.push_back(set);
+                       while(l<r && (numbers[l] == numbers[l+1]))
+                            l++;
+                       while(l<r && (numbers[r] == numbers[r-1]))
+                            r--;
+                       l++;
+                   }
+                   else if((numbers[l]+numbers[r]) > t){
+                        r--;
+                   }
+                   else{
+                        l++;
+                   }
+               }
+           }
         }
-        return ans;
+        return sets;
     }
 };
