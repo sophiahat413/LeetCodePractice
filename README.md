@@ -1,5 +1,15 @@
 # LeetCodePractice
 
+### Basic: Quick Sort
+|Solution |Date|
+|---------|----|
+|Not Solved||
+
+### Basic: Heap Sort
+|Solution |Date|
+|---------|----|
+|Not Solved||
+
 ### LintCode 5. Kth Largest Element
 |Solution |Date|
 |---------|----|
@@ -31,3 +41,15 @@
 |Solution |Date|
 |---------|----|
 |Two Pointers|8/20|
+
+### 200. Number of Islands
+reference: https://leetcode.com/problems/number-of-islands/discuss/56356/DFS-and-BFS-in-C++
+|Solution |Date|
+|---------|----|
+|DFS|8/21|
+|BFS|8/21|
+
+### 215. Kth Largest Element in an Array
+|Solution |Date|
+|---------|----|
+|Partition|8/21|
