@@ -25,6 +25,12 @@
 |---------|----|
 |Two Pointers|8/20|
 
+### 53.Maximum Subarray
+|Solution |Date|
+|---------|----|
+|log(n)|9/2|
+|Divided and Conquer|9/2|
+
 ### 75. Sort Colors
 |Solution|Date|
 |--------|----|
@@ -34,6 +40,12 @@
 |Solution|Date|
 |--------|----|
 |In Order|8/27|
+
+### 101. Symmetric Tree
+|Solution|Date|
+|--------|----|
+|Iterativce|9/2|
+|Recursive|9/2|
 
 ### 102. Binary Order Traversal
 |Solution|Date|
@@ -135,6 +147,18 @@ referance: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
 |DFS|8/26|
 |Think||
 
+### 243. Shortest Word Distance
+|Solution |Date|
+|---------|----|
+||9/1|
+
+### 256. Paint House
+referance: https://leetcode.com/problems/paint-house/discuss/68233/O(n)-Time-and-O(1)-Space-C++-Solution
+
+|Solution |Date|
+|---------|----|
+||9/2|
+
 ### 257. Binary Tree Paths
 referance: https://leetcode.com/problems/binary-tree-paths/discuss/68270/C++-simple-4ms-recursive-solution
 
@@ -147,6 +171,21 @@ referance: https://leetcode.com/problems/binary-tree-paths/discuss/68270/C++-sim
 |---------|----|
 |Recursive|8/23|
 
+### 339. Nested List Weight Sum 
+|Solution |Date|
+|---------|----|
+|DFS|8/30|
+
+### 364. Nested List Weight Sum  II
+|Solution |Date|
+|---------|----|
+|Idea from 339|8/31|
+
+### 366. Find Leaves of Binary Tree
+|Solution |Date|
+|---------|----|
+|DFS|8/30|
+
 ### 444. Reconstruction Sequence
 |Solution|Date|
 |--------|----|
@@ -158,14 +197,49 @@ referance: https://leetcode.com/problems/binary-tree-paths/discuss/68270/C++-sim
 |---------|----|
 |Recursive|8/23|
 
+### 605. Can Place Flowers
+referance: https://leetcode.com/problems/can-place-flowers/discuss/103893/C++Java-Clean-Code
+
+|Solution|Date|
+|--------|----|
+||9/2|
+
 ### LintCode 611. Knight Shortest Problem
 |Solution |Date|
 |---------|----|
 |Array|8/22|
 |Think||
 
+### 671. Second Minimum Node in a Binary Tree
+referance: https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/discuss/107159/C++-DFS-recursion
+
+|Solution |Date|
+|---------|----|
+|Original|9/2|
+|Brief|9/2|
+
 ### LintCode 680. Split String
 |Solution |Date|
 |---------|----|
 |DFS|8/29|
 |Think||
+
+### 695. Max Area of Island
+referance: https://leetcode.com/problems/max-area-of-island/discuss/108533/JavaC++-Straightforward-dfs-solution
+
+|Solution |Date|
+|---------|----|
+|DFS-Original|9/2|
+|DFS-dfs|9/2|
+
+### 744. Find Smallest Letter Greater Than Target
+|Solution |Date|
+|---------|----|
+|Original|9/2|
+|Binary Search|9/2|
+
+### 796. Rotate String
+|Solution |Date|
+|---------|----|
+|Original|9/2|
+|One Line|9/2|
