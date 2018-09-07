@@ -25,6 +25,16 @@
 |---------|----|
 |Two Pointers|8/20|
 
+### 39. Combination Sum 
+|Solution |Date|
+|---------|----|
+|DFS|9/4|
+
+### 40. Combination Sum II
+|Solution |Date|
+|---------|----|
+|DFS|9/4|
+
 ### 53.Maximum Subarray
 |Solution |Date|
 |---------|----|
@@ -35,6 +45,22 @@
 |Solution|Date|
 |--------|----|
 |Quick Sort|8/20|
+
+### 77. Combinations
+|Solution|Date|
+|--------|----|
+|DFS|9/6|
+
+### 78. Subsets
+|Solution|Date|
+|--------|----|
+|DFS|9/6|
+|Iterative|9/6|
+
+### 90. Subsets II
+|Solution|Date|
+|--------|----|
+|DFS|9/6|
 
 ### 98. Validate Binary Search Tree
 |Solution|Date|
@@ -91,6 +117,12 @@ reference: https://www.jiuzhang.com/solution/clone-graph/
 |Qiock Sort|8/20|
 |Two Pointers|8/20|
 |Two Sides|8/20|
+
+### 153. Find Minimum in Rotated Sorted Array
+|Solution|Date|
+|--------|----|
+|Two Ptrs|9/6|
+|||
 
 ### 167. Two Sum III - Input Array is Sorted
 |Solution |Date|
@@ -186,6 +218,12 @@ referance: https://leetcode.com/problems/binary-tree-paths/discuss/68270/C++-sim
 |---------|----|
 |DFS|8/30|
 
+### 409. Longest Palindrome
+|Solution |Date|
+|---------|----|
+|Original|9/6|
+|||
+
 ### 444. Reconstruction Sequence
 |Solution|Date|
 |--------|----|
@@ -223,6 +261,14 @@ referance: https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/di
 |---------|----|
 |DFS|8/29|
 |Think||
+
+### 681. Next Closest Time
+referance: https://leetcode.com/problems/next-closest-time/description/
+
+|Solution |Date|
+|---------|----|
+|Original|9/7|
+|Brief|9/7|
 
 ### 695. Max Area of Island
 referance: https://leetcode.com/problems/max-area-of-island/discuss/108533/JavaC++-Straightforward-dfs-solution
