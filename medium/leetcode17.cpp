@@ -1,57 +1,29 @@
 class Solution {
+private:
+    vector<string> result;
 public:
-    vector<string> letterCombinations(string digits) {
-        
-        vector<string> ans;
-        if(digits.length() == 0)
-            return ans;
-        int store[8] = {3,3,3,3,3,4,3,4};
-        vector<vector<char>> tmp;
-        vector<char> copy;
-        
-        int index = 0;
-        index = digits[0] - 48 - 2;
-        //put the first element
-        if(index < 6){
-            for(int q = 0; q<store[index]; q++){
-                vector<char> copy;    
-                copy.push_back( 97+ 3*index + q);
-                tmp.push_back(copy);
-            }
+    /**
+     * @param digits: A digital string
+     * @return: all posible letter combinations
+     */
+    void dfs(vector<vector<char>> num, string &digits, string s, int d){
+        if(d >= digits.length()){
+            result.push_back(s);   
+            return;
         }
-        else{
-            for(int q = 0; q<store[index]; q++){
-                vector<char> copy;    
-                copy.push_back( 97+ 3* index + 1 + q);
-                tmp.push_back(copy);
-            }
+        for(int i = 0; i<num[digits[d] - '0'].size(); i++){
+            s += num[digits[d]-'0'][i];
+            dfs(num, digits, s, d+1);
+            s.pop_back();
         }
-        for(int i = 1; i<digits.length(); i++){
-            vector<vector<char>> set;
-            index = digits[i] - 48 - 2;
-            for(int j = 0; j<tmp.size(); j++){
-                if(index < 6){
-                    for(int q = 0; q<store[index]; q++){
-                        vector<char> copy = tmp[j];    
-                        copy.push_back( 97+ 3*index + q);
-                        set.push_back(copy);
-                    }
-                }
-                else{
-                     for(int q = 0; q<store[index]; q++){
-                        vector<char> copy = tmp[j];    
-                        copy.push_back( 97+ 3* index + 1 + q);
-                        set.push_back(copy);
-                    }
-                }
-            }
-            tmp = set;
-        }
-        for(int i = 0; i<tmp.size(); i++){
-            string reg;
-            reg.append(tmp[i].begin(), tmp[i].end());
-            ans.push_back(reg);
-        }
-        return ans;
     }
+    vector<string> letterCombinations(string &digits) {
+        // write your code here
+        vector<vector<char>> num{{},{},{'a','b','c'}, {'d','e','f'}, {'g','h','i'},{'j','k','l'},{'m','n','o'},{'p','q','r','s'}, {'t','u','v'},{'w','x','y','z'}};
+        if(digits.empty())
+            return {};
+        dfs(num, digits, "", 0);
+        return result;
+    }
+    
 };

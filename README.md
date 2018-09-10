@@ -15,10 +15,20 @@
 |---------|----|
 |Partition|8/20|
 
+### LintCode10. String Permutation II
+|Solution |Date|
+|---------|----|
+|DFS|9/8|
+
 ### 15. Three Sum
 |Solution |Date|
 |---------|----|
 |Two Pointers|8/20|
+
+### 17. Letter Combinations of a Phone Number
+|Solution |Date|
+|---------|----|
+|DFS|9/8|
 
 ### LintCode 31. Partition Array
 |Solution |Date|
@@ -34,6 +44,17 @@
 |Solution |Date|
 |---------|----|
 |DFS|9/4|
+
+### 46. Permutation
+|Solution |Date|
+|---------|----|
+|Dfs|9/8|
+|Non recursive| 9/8|
+
+### 47. Permutation II
+|Solution |Date|
+|---------|----|
+|Dfs|9/8|
 
 ### 53.Maximum Subarray
 |Solution |Date|
@@ -157,6 +178,16 @@ reference: https://leetcode.com/problems/number-of-islands/discuss/56356/DFS-and
 |---------|----|
 |Partition|8/21|
 
+### 225. Implement Stack using Queues
+|Solution |Date|
+|---------|----|
+||9/9|
+
+### 232. Implement queues using stacks
+|Solution |Date|
+|---------|----|
+||9/9|
+
 ### 230. Kth Smallest Element
 referance: https://leetcode.com/problems/kth-smallest-element-in-a-bst/discuss/63696/Share-my-C++-iterative-ALG.
 
@@ -208,6 +239,11 @@ referance: https://leetcode.com/problems/binary-tree-paths/discuss/68270/C++-sim
 |---------|----|
 |DFS|8/30|
 
+### 346. Moving Average from Data Stream
+|Solution |Date|
+|---------|----|
+||9/9|
+
 ### 364. Nested List Weight Sum  II
 |Solution |Date|
 |---------|----|
@@ -217,6 +253,18 @@ referance: https://leetcode.com/problems/binary-tree-paths/discuss/68270/C++-sim
 |Solution |Date|
 |---------|----|
 |DFS|8/30|
+
+### 380. Inset Delete GetRandom
+referance: https://leetcode.com/problems/insert-delete-getrandom-o1/discuss/85422/AC-C++-Solution.-Unordered_map-+-Vector
+
+|Solution |Date|
+|---------|----|
+||9/9|
+
+### 387. First Unique Character in a String
+|Solution |Date|
+|---------|----|
+||9/9|
 
 ### 409. Longest Palindrome
 |Solution |Date|
