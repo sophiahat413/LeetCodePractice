@@ -30,6 +30,14 @@
 |---------|----|
 |DFS|9/8|
 
+### 23. Merged K Sorted Lists
+referance: https://leetcode.com/problems/merge-k-sorted-lists/discuss/10531/Sharing-my-straightforward-C++-solution-without-data-structure-other-than-vector
+
+|Solution |Date|
+|---------|----|
+|Original|9/10|
+|Breif|9/10|
+
 ### LintCode 31. Partition Array
 |Solution |Date|
 |---------|----|
@@ -44,6 +52,12 @@
 |Solution |Date|
 |---------|----|
 |DFS|9/4|
+
+### 45. Multiply Strings
+reference: https://leetcode.com/problems/multiply-strings/discuss/17646/Brief-C++-solution-using-only-strings-and-without-reversal
+
+|Solution||Date|
+|Breif|9/10|
 
 ### 46. Permutation
 |Solution |Date|
@@ -228,6 +242,21 @@ referance: https://leetcode.com/problems/binary-tree-paths/discuss/68270/C++-sim
 |Solution |Date|
 |---------|----|
 |Recursive|8/23|
+
+### 263. Ugly Numbers
+referance: https://leetcode.com/problems/ugly-number/discuss/69353/Simple-C++-solution
+
+|Solution |Date|
+|---------|----|
+|Original|9/10|
+|Brief|9/10|
+
+### 264. Ugly Numbers ||
+reference: https://leetcode.com/problems/ugly-number-ii/discuss/69364/My-16ms-C++-DP-solution-with-short-explanation
+
+|Solution |Date|
+|---------|----|
+|Brief|9/10|
 
 ### 270. Closest Binary Search Tree Value
 |Solution |Date|
