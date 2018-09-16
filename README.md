@@ -76,6 +76,11 @@ reference: https://leetcode.com/problems/multiply-strings/discuss/17646/Brief-C+
 |log(n)|9/2|
 |Divided and Conquer|9/2|
 
+### 56. Merge Intervals
+|Solution |Date|
+|---------|----|
+|Sort intervals|9/16|
+
 ### 75. Sort Colors
 |Solution|Date|
 |--------|----|
@@ -145,6 +150,11 @@ reference: https://www.jiuzhang.com/solution/clone-graph/
 |Solution|Date|
 |--------|----|
 |Topoligical|8/25|
+
+### LintCode 138. Subarray Sum
+|Solution|Date|
+|--------|----|
+|Prefix Sum|9/16|
 
 ### LintCode 143. Sort ColorsII
 |Solution|Date|
@@ -273,6 +283,14 @@ reference: https://leetcode.com/problems/ugly-number-ii/discuss/69364/My-16ms-C+
 |---------|----|
 ||9/9|
 
+### 349. Intersection of two array
+reference:https://leetcode.com/problems/intersection-of-two-arrays/discuss/81966/Small-C++-solution 
+
+|Solution |Date|
+|---------|----|
+|Set|9/16|
+|Brief|9/16|
+
 ### 364. Nested List Weight Sum  II
 |Solution |Date|
 |---------|----|
@@ -307,6 +325,18 @@ referance: https://leetcode.com/problems/insert-delete-getrandom-o1/discuss/8542
 |Map|8/23|
 | | |
 
+### 544. Top K Largest Numbers
+|Solution|Date|
+|--------|----|
+|Sort|9/16|
+|Priority Queue|9/16|
+
+### 560. Subarray Sums equal K
+|Solution|Date|
+|--------|----|
+|two loops|9/16|
+|Prefix Sum|9/16|
+
 ### LintCode 596. Minimum Subtree
 |Solution |Date|
 |---------|----|
@@ -324,6 +354,11 @@ referance: https://leetcode.com/problems/can-place-flowers/discuss/103893/C++Jav
 |---------|----|
 |Array|8/22|
 |Think||
+
+### 612. K closest Point
+|Solution|Date|
+|--------|----|
+|Priority Queue|9/13|
 
 ### 671. Second Minimum Node in a Binary Tree
 referance: https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/discuss/107159/C++-DFS-recursion
