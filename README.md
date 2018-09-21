@@ -10,6 +10,12 @@
 |---------|----|
 |Not Solved||
 
+### 4. Median of Two Sorted Arrays
+|Solution |Date|
+|---------|----|
+|Original|9/17|
+|Improve| | 
+
 ### LintCode 5. Kth Largest Element
 |Solution |Date|
 |---------|----|
@@ -37,11 +43,18 @@ referance: https://leetcode.com/problems/merge-k-sorted-lists/discuss/10531/Shar
 |---------|----|
 |Original|9/10|
 |Breif|9/10|
+|Divide & Conquer|9/19|
 
 ### LintCode 31. Partition Array
 |Solution |Date|
 |---------|----|
 |Two Pointers|8/20|
+
+### 33. Search in Rotated Sorted Array
+|Solution |Date|
+|---------|----|
+|Two Pointers|9/20|
+|Practice again||
 
 ### 39. Combination Sum 
 |Solution |Date|
@@ -74,12 +87,17 @@ reference: https://leetcode.com/problems/multiply-strings/discuss/17646/Brief-C+
 |Solution |Date|
 |---------|----|
 |log(n)|9/2|
-|Divided and Conquer|9/2|
+|Divided and Conquer|???|
 
 ### 56. Merge Intervals
 |Solution |Date|
 |---------|----|
 |Sort intervals|9/16|
+
+### 70. Climbing Stars
+|Solution |Date|
+|---------|----|
+|Dynamic Programming|9/17|
 
 ### 75. Sort Colors
 |Solution|Date|
@@ -97,10 +115,31 @@ reference: https://leetcode.com/problems/multiply-strings/discuss/17646/Brief-C+
 |DFS|9/6|
 |Iterative|9/6|
 
+### 88. Merge Sorted Array
+reference: https://leetcode.com/problems/merge-sorted-array/discuss/29515/4ms-C++-solution-with-single-loop
+
+|Solution|Date|
+|--------|----|
+|From Back|9/17|
+
 ### 90. Subsets II
 |Solution|Date|
 |--------|----|
 |DFS|9/6|
+
+### 95. Unique Binary Search Tree II
+reference: https://leetcode.com/problems/unique-binary-search-trees-ii/discuss/31494/A-simple-recursive-solution
+
+|Solution|Date|
+|--------|----|
+|To Do||
+
+### 96. Unique Binary Search Tree
+reference: https://leetcode.com/problems/unique-binary-search-trees/discuss/31809/C++-code-w-explanation
+
+|Solution|Date|
+|--------|----|
+|Dynamic Programming|9/20|
 
 ### 98. Validate Binary Search Tree
 |Solution|Date|
@@ -127,6 +166,16 @@ reference: https://leetcode.com/problems/multiply-strings/discuss/17646/Brief-C+
 |Solution|Date|
 |--------|----|
 |Non Recursive|8/26|
+
+### 121. Best Time to Buy and Sell Stocks
+|Solution|Date|
+|--------|----|
+|Dynamic Programming|9/17|
+
+### 122. Best Time to Buy and Sell Stocks II
+|Solution|Date|
+|--------|----|
+|Dynamic Programming|9/17|
 
 ### 127. Word Ladder
 |Solution|Date|
@@ -174,10 +223,23 @@ reference: https://www.jiuzhang.com/solution/clone-graph/
 |---------|----|
 |Two Pointers|8/20|
 
+### 169. Majority Element
+reference: https://leetcode.com/problems/majority-element/discuss/51612/6-Suggested-Solutions-in-C++-with-Explanations
+
+|Solution |Date|
+|---------|----|
+|Divide and Conquer|9/19|
+|||
+
 ### 173. Binary Search Tree Iterator
 |Solution|Date|
 |--------|----|
 |DFS|8/27|
+
+### 198. House Robber
+|Solution|Date|
+|--------|----|
+|Dynamic Programming|9/17|
 
 ### 200. Number of Islands
 reference: https://leetcode.com/problems/number-of-islands/discuss/56356/DFS-and-BFS-in-C++
@@ -239,6 +301,22 @@ referance: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
 |---------|----|
 ||9/1|
 
+### 244. Shortest Word Distance II
+reference: https://leetcode.com/problems/shortest-word-distance-ii/discuss/67066/9-line-O(n)-C++-Solution
+
+|Solution |Date|
+|---------|----|
+|Original|9/20|
+|Brief|9/20|
+
+### 245. Shortest Word Distance III
+reference : https://leetcode.com/problems/shortest-word-distance-iii/discuss/67097/12-16-lines-Java-C++
+
+|Solution |Date|
+|---------|----|
+|Original|9/20|
+|Brief|9/20|
+
 ### 256. Paint House
 referance: https://leetcode.com/problems/paint-house/discuss/68233/O(n)-Time-and-O(1)-Space-C++-Solution
 
@@ -272,6 +350,23 @@ reference: https://leetcode.com/problems/ugly-number-ii/discuss/69364/My-16ms-C+
 |Solution |Date|
 |---------|----|
 |Recursive|8/23|
+
+### 276. Paint Fences
+|Solution |Date|
+|---------|----|
+|Dynamic Programming|9/18|
+
+### 303. Ramge Sum Queru - Immutable
+|Solution |Date|
+|---------|----|
+|Dynamic Programming|9/19|
+
+### 338. Counting Bits
+|Solution |Date|
+|---------|----|
+|Original|9/17|
+|Faster|9/17|
+|Multiply|9/17|
 
 ### 339. Nested List Weight Sum 
 |Solution |Date|
@@ -324,6 +419,12 @@ referance: https://leetcode.com/problems/insert-delete-getrandom-o1/discuss/8542
 |--------|----|
 |Map|8/23|
 | | |
+
+### LintCode 486. Merge K Sorted  Lists
+|Solution|Date|
+|--------|----|
+|Original|9/17|
+|Priority Queue|9/17 |
 
 ### 544. Top K Largest Numbers
 |Solution|Date|
@@ -395,6 +496,11 @@ referance: https://leetcode.com/problems/max-area-of-island/discuss/108533/JavaC
 |---------|----|
 |Original|9/2|
 |Binary Search|9/2|
+
+### 746. Min Cost Climbing Stars
+|Solution |Date|
+|---------|----|
+|Dynamic Programmin|9/17|
 
 ### 796. Rotate String
 |Solution |Date|
