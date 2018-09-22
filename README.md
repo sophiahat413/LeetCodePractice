@@ -115,6 +115,13 @@ reference: https://leetcode.com/problems/multiply-strings/discuss/17646/Brief-C+
 |DFS|9/6|
 |Iterative|9/6|
 
+### 81. Search in Rotated Sorted Array ||
+reference: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/discuss/28218/My-8ms-C++-solution-(o(logn)-on-average-o(n)-worst-case)
+
+|Solution|Date|
+|--------|----|
+|two Pointers|9/21|
+
 ### 88. Merge Sorted Array
 reference: https://leetcode.com/problems/merge-sorted-array/discuss/29515/4ms-C++-solution-with-single-loop
 
@@ -236,6 +243,11 @@ reference: https://leetcode.com/problems/majority-element/discuss/51612/6-Sugges
 |--------|----|
 |DFS|8/27|
 
+### 190. Reverse Bits
+|Solution|Date|
+|--------|----|
+|Bit Manupulation|9/21|
+
 ### 198. House Robber
 |Solution|Date|
 |--------|----|
@@ -331,6 +343,11 @@ referance: https://leetcode.com/problems/binary-tree-paths/discuss/68270/C++-sim
 |---------|----|
 |Recursive|8/23|
 
+### 259. 3Sum Number
+|Solution |Date|
+|---------|----|
+|Two Pointers|9/21
+
 ### 263. Ugly Numbers
 referance: https://leetcode.com/problems/ugly-number/discuss/69353/Simple-C++-solution
 
@@ -396,6 +413,12 @@ reference:https://leetcode.com/problems/intersection-of-two-arrays/discuss/81966
 |---------|----|
 |DFS|8/30|
 
+### 371. Sum Two Integers
+|Solution |Date|
+|---------|----|
+|Bit Add|9/21|
+|Practice||
+
 ### 380. Inset Delete GetRandom
 referance: https://leetcode.com/problems/insert-delete-getrandom-o1/discuss/85422/AC-C++-Solution.-Unordered_map-+-Vector
 
@@ -449,6 +472,14 @@ referance: https://leetcode.com/problems/can-place-flowers/discuss/103893/C++Jav
 |Solution|Date|
 |--------|----|
 ||9/2|
+
+### 611. Valid Triangle Number
+reference: https://leetcode.com/problems/valid-triangle-number/discuss/104177/O(N2)-solution-for-C++-and-Python
+
+|Solution|Date|
+|--------|----|
+|Original|9/21|
+|Faster|9/21|
 
 ### LintCode 611. Knight Shortest Problem
 |Solution |Date|
