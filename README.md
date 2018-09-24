@@ -207,6 +207,11 @@ reference: https://www.jiuzhang.com/solution/clone-graph/
 |--------|----|
 |Topoligical|8/25|
 
+### 136. Single Number
+|Solution|Date|
+|--------|----|
+||9/22|
+
 ### LintCode 138. Subarray Sum
 |Solution|Date|
 |--------|----|
@@ -224,6 +229,13 @@ reference: https://www.jiuzhang.com/solution/clone-graph/
 |--------|----|
 |Two Ptrs|9/6|
 |||
+
+### 160. Intersection of two linked list
+reference: https://leetcode.com/problems/intersection-of-two-linked-lists/discuss/49789/My-accepted-simple-and-shortest-C++-code-with-comments-explaining-the-algorithm.-Any-comments-or-improvements
+
+|Solution|Date|
+|--------|----|
+|Two Ptrs|9/24|
 
 ### 167. Two Sum III - Input Array is Sorted
 |Solution |Date|
@@ -431,6 +443,11 @@ referance: https://leetcode.com/problems/insert-delete-getrandom-o1/discuss/8542
 |---------|----|
 ||9/9|
 
+### 394. Decode String
+|Solution |Date|
+|---------|----|
+||9/22|
+
 ### 409. Longest Palindrome
 |Solution |Date|
 |---------|----|
@@ -448,6 +465,11 @@ referance: https://leetcode.com/problems/insert-delete-getrandom-o1/discuss/8542
 |--------|----|
 |Original|9/17|
 |Priority Queue|9/17 |
+
+### 490. The Maze
+|Solution|Date|
+|--------|----|
+|BFS|9/22|
 
 ### 544. Top K Largest Numbers
 |Solution|Date|
@@ -538,3 +560,13 @@ referance: https://leetcode.com/problems/max-area-of-island/discuss/108533/JavaC
 |---------|----|
 |Original|9/2|
 |One Line|9/2|
+
+### Lintcode 1376. Equivalent String
+|Solution |Date|
+|---------|----|
+|Original|9/22|
+
+### Lintcode 1375. Substring with at least K distinct characters
+|Solution |Date|
+|---------|----|
+||9/22|
