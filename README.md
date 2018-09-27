@@ -45,6 +45,10 @@ referance: https://leetcode.com/problems/merge-k-sorted-lists/discuss/10531/Shar
 |Breif|9/10|
 |Divide & Conquer|9/19|
 
+### Next Permutation
+|Solution||Date|
+|reverse|9/26|
+
 ### LintCode 31. Partition Array
 |Solution |Date|
 |---------|----|
@@ -93,6 +97,14 @@ reference: https://leetcode.com/problems/multiply-strings/discuss/17646/Brief-C+
 |Solution |Date|
 |---------|----|
 |Sort intervals|9/16|
+
+### 69. Sqrt(x)
+reference: https://leetcode.com/problems/sqrtx/discuss/25048/Share-my-O(log-n)-Solution-using-bit-manipulation
+
+|Solution |Date|
+|---------|----|
+|bit manipulation|9/24|
+|Binary Search|9/24|
 
 ### 70. Climbing Stars
 |Solution |Date|
@@ -224,6 +236,12 @@ reference: https://www.jiuzhang.com/solution/clone-graph/
 |Two Pointers|8/20|
 |Two Sides|8/20|
 
+### 150. Evaluate Reverse Polish Notation
+|Solution|Date|
+|--------|----|
+|Stack|9/26|
+|Practice||
+
 ### 153. Find Minimum in Rotated Sorted Array
 |Solution|Date|
 |--------|----|
@@ -254,6 +272,14 @@ reference: https://leetcode.com/problems/majority-element/discuss/51612/6-Sugges
 |Solution|Date|
 |--------|----|
 |DFS|8/27|
+
+### 187. Repeated DNA Sequences
+reference: https://leetcode.com/problems/repeated-dna-sequences/discuss/53952/20-ms-solution-(C++)-with-explanation
+
+|Solution|Date|
+|--------|----|
+|Original|9/26|
+|Bit|9/26|
 
 ### 190. Reverse Bits
 |Solution|Date|
@@ -390,6 +416,14 @@ reference: https://leetcode.com/problems/ugly-number-ii/discuss/69364/My-16ms-C+
 |---------|----|
 |Dynamic Programming|9/19|
 
+### 323. Number of Connected Components in an Undirected Graph
+reference: https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/discuss/77575/C++-short-easy-to-understand-union-find-solution
+
+|Solution |Date|
+|---------|----|
+|Union Find|9/24|
+|Faster|9/24|
+
 ### 338. Counting Bits
 |Solution |Date|
 |---------|----|
@@ -521,6 +555,14 @@ referance: https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/di
 |---------|----|
 |Original|9/2|
 |Brief|9/2|
+
+### 636.Exclusive Time of Functions
+reference:https://leetcode.com/problems/exclusive-time-of-functions/discuss/105103/C++-O(n)-stack-with-explaination 
+
+|Solution |Date|
+|---------|----|
+|Stack|9/26|
+|Practice||
 
 ### LintCode 680. Split String
 |Solution |Date|
