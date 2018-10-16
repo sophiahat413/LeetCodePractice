@@ -87,6 +87,19 @@ reference: https://leetcode.com/problems/multiply-strings/discuss/17646/Brief-C+
 |---------|----|
 |Dfs|9/8|
 
+### 49. Group Anagrams
+|Solution |Date|
+|---------|----|
+|Map|10/6|
+|Faster Map|10/6|
+
+### 50. pow(x, n)
+reference: https://leetcode.com/problems/powx-n/discuss/19578/Non-recursive-C++-log(n)-solution
+
+|Solution |Date|
+|---------|----|
+|Original|10/15|
+
 ### 53.Maximum Subarray
 |Solution |Date|
 |---------|----|
@@ -116,6 +129,13 @@ reference: https://leetcode.com/problems/sqrtx/discuss/25048/Share-my-O(log-n)-S
 |--------|----|
 |Quick Sort|8/20|
 
+### 76. Minimum Window Substringr
+reference: https://leetcode.com/problems/minimum-window-substring/discuss/26840/Sharing-my-straightforward-O(n)-solution-with-explanation
+
+|Solution|Date|
+|--------|----|
+|Sliding Window|10/13|
+
 ### 77. Combinations
 |Solution|Date|
 |--------|----|
@@ -126,6 +146,11 @@ reference: https://leetcode.com/problems/sqrtx/discuss/25048/Share-my-O(log-n)-S
 |--------|----|
 |DFS|9/6|
 |Iterative|9/6|
+
+### 79. Word Search
+|Solution|Date|
+|--------|----|
+|DFS|10/15|
 
 ### 81. Search in Rotated Sorted Array ||
 reference: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/discuss/28218/My-8ms-C++-solution-(o(logn)-on-average-o(n)-worst-case)
@@ -148,10 +173,11 @@ reference: https://leetcode.com/problems/merge-sorted-array/discuss/29515/4ms-C+
 
 ### 95. Unique Binary Search Tree II
 reference: https://leetcode.com/problems/unique-binary-search-trees-ii/discuss/31494/A-simple-recursive-solution
+https://leetcode.com/problems/unique-binary-search-trees-ii/discuss/31563/My-Accepted-C++-solution-(recursive-less-than-30-lines)
 
 |Solution|Date|
 |--------|----|
-|To Do||
+|Recursive|10/15|
 
 ### 96. Unique Binary Search Tree
 reference: https://leetcode.com/problems/unique-binary-search-trees/discuss/31809/C++-code-w-explanation
@@ -214,6 +240,13 @@ reference: https://www.jiuzhang.com/solution/clone-graph/
 |BFS|8/25|
 |DFS|8/25|
 
+### 125. Valid Palindrome
+reference: https://leetcode.com/problems/valid-palindrome/discuss/40048/Here's-a-clean-C++-solution
+
+|Solution|Date|
+|--------|----|
+|Two Pointer|10/8|
+
 ### 127. Topoligical Sorting
 |Solution|Date|
 |--------|----|
@@ -223,11 +256,27 @@ reference: https://www.jiuzhang.com/solution/clone-graph/
 |Solution|Date|
 |--------|----|
 ||9/22|
+|XOR|10/16|
+
+### 137. Single Number II
+reference: http://liadbiz.github.io/leetcode-single-number-problems-summary/
+https://leetcode.com/problems/single-number-ii/discuss/43313/A-general-C++-solution-for-these-type-problems
+(Useful) https://cloud.tencent.com/developer/article/1131945
+
+|Solution|Date|
+|--------|----|
+|CountBit|10/16|
+|So hard||
 
 ### LintCode 138. Subarray Sum
 |Solution|Date|
 |--------|----|
 |Prefix Sum|9/16|
+
+### 141. Linked List Cycle
+|Solution|Date|
+|--------|----|
+|O(1)Space|10/15|
 
 ### LintCode 143. Sort ColorsII
 |Solution|Date|
@@ -236,11 +285,29 @@ reference: https://www.jiuzhang.com/solution/clone-graph/
 |Two Pointers|8/20|
 |Two Sides|8/20|
 
+### 146. LRU cache
+|Solution|Date|
+|--------|----|
+|Original|10/9|
+
+### 149. Max Points on a Line
+reference: https://leetcode.com/problems/max-points-on-a-line/discuss/47106/C++-O(n2)-solution-for-your-reference
+
+|Solution|Date|
+|--------|----|
+|Pair as a Key|9/28|
+|Practice||
+
 ### 150. Evaluate Reverse Polish Notation
 |Solution|Date|
 |--------|----|
 |Stack|9/26|
 |Practice||
+
+### 152. Maximum Product Subarray
+|Solution|Date|
+|--------|----|
+|Array|10/15|
 
 ### 153. Find Minimum in Rotated Sorted Array
 |Solution|Date|
@@ -254,6 +321,12 @@ reference: https://leetcode.com/problems/intersection-of-two-linked-lists/discus
 |Solution|Date|
 |--------|----|
 |Two Ptrs|9/24|
+
+### 162. Find Peak Element
+|Solution|Date|
+|--------|----|
+|Iterative|10/16|
+|Recursive|10/16|
 
 ### 167. Two Sum III - Input Array is Sorted
 |Solution |Date|
@@ -298,6 +371,12 @@ reference: https://leetcode.com/problems/number-of-islands/discuss/56356/DFS-and
 |---------|----|
 |DFS|8/21|
 |BFS|8/21|
+
+### 206. Reverse Linked List
+|Solution |Date|
+|---------|----|
+|Iterative|10/7|
+
 
 ### 207. Course Schedule
 |Solution |Date|
@@ -346,6 +425,12 @@ referance: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
 |DFS|8/26|
 |Think||
 
+### 242. Valid Anagram
+|Solution |Date|
+|---------|----|
+|Map|10/6|
+|Array|10/6|
+
 ### 243. Shortest Word Distance
 |Solution |Date|
 |---------|----|
@@ -367,6 +452,14 @@ reference : https://leetcode.com/problems/shortest-word-distance-iii/discuss/670
 |Original|9/20|
 |Brief|9/20|
 
+### Factor Combinations
+reference: https://leetcode.com/problems/factor-combinations/discuss/68132/Share-simple-C++-DFS-accepted-solution
+|Solution |Date|
+|---------|----|
+|Original|9/28|
+|Faster|9/28|
+|||
+
 ### 256. Paint House
 referance: https://leetcode.com/problems/paint-house/discuss/68233/O(n)-Time-and-O(1)-Space-C++-Solution
 
@@ -386,6 +479,16 @@ referance: https://leetcode.com/problems/binary-tree-paths/discuss/68270/C++-sim
 |---------|----|
 |Two Pointers|9/21
 
+### Single Number |||
+|Solution |Date|
+|---------|----|
+|Bit Manipulation XOR|10/161
+
+### 261. Graph Valid Tree
+|Solution |Date|
+|---------|----|
+|DFS|10/131
+
 ### 263. Ugly Numbers
 referance: https://leetcode.com/problems/ugly-number/discuss/69353/Simple-C++-solution
 
@@ -401,10 +504,29 @@ reference: https://leetcode.com/problems/ugly-number-ii/discuss/69364/My-16ms-C+
 |---------|----|
 |Brief|9/10|
 
+### 266. Palindrome Permutation
+|Solution |Date|
+|---------|----|
+|Original|10/8|
+
 ### 270. Closest Binary Search Tree Value
 |Solution |Date|
 |---------|----|
 |Recursive|8/23|
+
+### 272. Closest Binary Search Tree Value II
+|Solution |Date|
+|---------|----|
+|Priority Queue|9/27|
+|More details|9/27|
+|Practice||
+
+### 273. Integer to English Words
+reference: https://leetcode.com/problems/integer-to-english-words/description/
+
+|Solution |Date|
+|---------|----|
+|Recursive|10/16|
 
 ### 276. Paint Fences
 |Solution |Date|
@@ -416,6 +538,11 @@ reference: https://leetcode.com/problems/ugly-number-ii/discuss/69364/My-16ms-C+
 |---------|----|
 |Dynamic Programming|9/19|
 
+### 322. Coin Change
+|Solution |Date|
+|---------|----|
+|Dynamic Programming|10/13|
+
 ### 323. Number of Connected Components in an Undirected Graph
 reference: https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/discuss/77575/C++-short-easy-to-understand-union-find-solution
 
@@ -423,6 +550,14 @@ reference: https://leetcode.com/problems/number-of-connected-components-in-an-un
 |---------|----|
 |Union Find|9/24|
 |Faster|9/24|
+
+### 329. Longest Increasing Path in a Matrix
+reference: https://leetcode.com/problems/longest-increasing-path-in-a-matrix/discuss/78317/C++-DP-DFS-solution-sharing
+
+|Solution| Date|
+|--------|-----|
+|Dynamic Programming & DFS | 10/5|
+| | |
 
 ### 338. Counting Bits
 |Solution |Date|
@@ -436,10 +571,24 @@ reference: https://leetcode.com/problems/number-of-connected-components-in-an-un
 |---------|----|
 |DFS|8/30|
 
+### 341. Flatten Nested List Iterator
+reference: https://leetcode.com/problems/flatten-nested-list-iterator/discuss/80169/Concise-C++-without-storing-all-values-at-initialization
+
+|Solution |Date|
+|---------|----|
+|Recursive|10/15|
+|Iterator|10/15|
+
 ### 346. Moving Average from Data Stream
 |Solution |Date|
 |---------|----|
 ||9/9|
+
+### 347. Top K Frequent Elements
+|Solution |Date|
+|---------|----|
+|Max Heap|10/15|
+|Min Heap|10/15|
 
 ### 349. Intersection of two array
 reference:https://leetcode.com/problems/intersection-of-two-arrays/discuss/81966/Small-C++-solution 
@@ -486,12 +635,27 @@ referance: https://leetcode.com/problems/insert-delete-getrandom-o1/discuss/8542
 |Solution |Date|
 |---------|----|
 |Original|9/6|
-|||
+|Faster|10/8|
+
+### 443. String Comparison
+reference: https://leetcode.com/problems/string-compression/description/
+
+|Solution |Date|
+|---------|----|
+|Fast|10/9|
 
 ### 444. Reconstruction Sequence
 |Solution|Date|
 |--------|----|
 |Map|8/23|
+| | |
+
+### 468. Valid IP Address
+reference: https://leetcode.com/problems/validate-ip-address/discuss/95565/C++-solution-straightforward-string-processing
+
+|Solution|Date|
+|--------|----|
+||10/15|
 | | |
 
 ### LintCode 486. Merge K Sorted  Lists
@@ -510,6 +674,13 @@ referance: https://leetcode.com/problems/insert-delete-getrandom-o1/discuss/8542
 |--------|----|
 |Sort|9/16|
 |Priority Queue|9/16|
+
+### 547. Friend Cycle
+reference: https://leetcode.com/problems/friend-circles/discuss/101354/C++-Clean-Code-DFSorUnionFind
+
+|Solution|Date|
+|--------|----|
+|Union Find|10/15|
 
 ### 560. Subarray Sums equal K
 |Solution|Date|
@@ -586,6 +757,22 @@ referance: https://leetcode.com/problems/max-area-of-island/discuss/108533/JavaC
 |DFS-Original|9/2|
 |DFS-dfs|9/2|
 
+### 697. Degree of an Array
+|Solution |Date|
+|---------|----|
+|Map|10/7|
+
+### 698. Partition to K equal Sum Subsets
+|Solution |Date|
+|---------|----|
+|Recursive|10/13|
+
+### 730. Count Different Palindrome Subsequences
+|Solution |Date|
+|---------|----|
+|Recursive|10/13|
+|Dynamic Programming|10/13|
+
 ### 744. Find Smallest Letter Greater Than Target
 |Solution |Date|
 |---------|----|
@@ -602,6 +789,13 @@ referance: https://leetcode.com/problems/max-area-of-island/discuss/108533/JavaC
 |---------|----|
 |Original|9/2|
 |One Line|9/2|
+
+### 829. Consecutive Number
+reference: https://leetcode.com/problems/consecutive-numbers-sum/discuss/129015/5-lines-C++-solution-with-detailed-mathematical-explanation.
+
+|Solution |Date|
+|---------|----|
+|Original|10/10|
 
 ### Lintcode 1376. Equivalent String
 |Solution |Date|
